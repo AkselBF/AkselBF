@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+## I'm Aksel Boutroue-Faret, a frontend developper
+
+Though I say I'm a frontend developper, I'm also an artist and a game developper.
+I specialize in all these trades equally well.
+
+Whatever people are looking for in me, design and coding is what I do best!
 
 <!--
 **AkselBF/AkselBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
